@@ -8,3 +8,5 @@ tech_interview_zania
 4. Go to browaser and load open api url : http://127.0.0.1:8000/doc
 
 ![img.png](img.png)
+
+Note - Due to time constraints, only limited  working code is added. 
