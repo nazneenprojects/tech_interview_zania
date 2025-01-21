@@ -1,0 +1,11 @@
+[
+  {"theaterId": 1,
+  "seats": 12,
+  "name": "Reyon"},
+  {"theaterId": 2,
+  "seats": 10,
+  "name": "Reyon plus"},
+  {"theaterId": 3,
+  "seats": 1,
+  "name": "Rey"}
+]
